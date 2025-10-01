@@ -66,3 +66,13 @@ Topics:
       - "Refresher"
     subtitle: "Help"
     description: "Fixing common issues in the development environment requires a solid understanding of the tools at your disposal. This section provides key commands and troubleshooting tips to help you navigate challenges effectively." 
+  - title: "Sci-Fi Tools"
+    image: "/tools/guidebook.png"
+    link: "/tools/scifi_tools"
+    alt: "Sci-Fi Tools"
+    keyPoints:
+     - "Terminal Commands"
+     - "Interactive Challenges"
+     - "Onboarding Coding Lessons"
+    subtitle: "Newbie Guidebook"
+    description: "People can struggle to understand how to use certain commands or follow certain instructions on the terminal. This is an interactive guide to make sure you will never forget how to use terminal again."
